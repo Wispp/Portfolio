@@ -18,3 +18,6 @@ Is the driver method for the project
 
 MyCanvas.java
 Implements the canvas used by Mancala.java
+
+Images.jpg
+Contains the image used for the board and bowls
